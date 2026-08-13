@@ -1,0 +1,365 @@
+{
+  "items": [
+    {
+      "description": "Awesome projects and applications built using Vorpal.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cash",
+          "description": "Cross-platform Linux commands without the suck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-14T08:48:46Z",
+            "owner": "dthree",
+            "repo": "cash",
+            "stars": 7737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vantage",
+          "description": "+ + for your live Node app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-27T13:57:44Z",
+            "owner": "dthree",
+            "repo": "vantage",
+            "stars": 3418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wat",
+          "description": "Community-built docs for every language, platform and library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-18T06:13:02Z",
+            "owner": "dthree",
+            "repo": "wat",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTunes-remote",
+          "description": "Control iTunes on the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-27T15:43:49Z",
+            "owner": "mischah",
+            "repo": "itunes-remote",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phunt",
+          "description": "Access Product Hunt on the CLI. Trended on (you guessed it) Product Hunt.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-15T16:45:40Z",
+            "owner": "Kristories",
+            "repo": "phunt",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quotr",
+          "description": "View stock exchange quotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-23T17:31:13Z",
+            "owner": "andrerpena",
+            "repo": "quotr",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "birdknife",
+          "description": "A full featured Twitter CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-12-28T10:10:07Z",
+            "owner": "eliah-w",
+            "repo": "birdknife",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tv-remote-cli",
+          "description": "CLI for remotely controlling your Smart TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-01T23:40:44Z",
+            "owner": "Glavin001",
+            "repo": "tv-remote-cli",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "launch",
+          "description": "Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T17:31:00Z",
+            "owner": "johnthepink",
+            "repo": "meteor-launch",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastack",
+          "description": "A zero-config tool that makes developing client-side apps easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-03T08:08:30Z",
+            "owner": "fastack",
+            "repo": "cli",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifxsh",
+          "description": "Interactive shell for controlling LIFX smart lights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-24T16:38:02Z",
+            "owner": "ristomatti",
+            "repo": "lifxsh",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metronome",
+          "description": "A live metronome on the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CoffeeScript",
+            "last_commit": "2015-10-15T21:41:35Z",
+            "owner": "AljoschaMeyer",
+            "repo": "metronome-cli",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trelew",
+          "description": "Access Trello on the CLI.",
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "Extensions add to the functionality of Vorpal - programmatically or live.",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "less",
+          "description": "Implementation of the command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-04T19:14:10Z",
+            "owner": "vorpaljs",
+            "repo": "vorpal-less",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grep",
+          "description": "Implementation of the command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-11T22:46:00Z",
+            "owner": "vorpaljs",
+            "repo": "vorpal-grep",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "POSIX implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "repl",
+          "description": "Drops your CLI into a REPL within your app's context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-03T14:41:42Z",
+            "owner": "vorpaljs",
+            "repo": "vorpal-repl",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tour",
+          "description": "Build an interactive tour for your Vorpal app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-10T23:57:27Z",
+            "owner": "vorpaljs",
+            "repo": "vorpal-tour",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "log",
+          "description": "Advanced logging utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2016-01-08T15:16:15Z",
+            "owner": "AljoschaMeyer",
+            "repo": "vorpal-log",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "set-or-print",
+          "description": "Easily set / get arguments with commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2015-11-02T18:32:25Z",
+            "owner": "AljoschaMeyer",
+            "repo": "vorpal-setorprint",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "watch",
+          "description": "Updates your live Vorpal extensions in realtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-03T05:46:52Z",
+            "owner": "vantagejs",
+            "repo": "vantage-watch",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Development tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rc",
+          "description": "Simple .rc file support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-21T15:32:06Z",
+            "owner": "subk",
+            "repo": "vorpal-rc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "comment",
+          "description": "Bash-like comment support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-22T08:11:21Z",
+            "owner": "subk",
+            "repo": "vorpal-comment",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "as-default",
+          "description": "Triggers Vorpal task in case it runs without any specificly defined task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-21T22:04:48Z",
+            "owner": "ialpert",
+            "repo": "vorpal-as-default",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Toolbox"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, David Caccavella has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:42:00.302Z",
+    "original_repository": "vorpaljs/awesome-vorpal",
+    "original_repository_sha": "0dfb5d7ae586b9ee6a0c58d9d987ecc31546218f",
+    "enhanced_repository": "enhansome/enhansome-vorpal",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vorpal with stars"
+  }
+}
