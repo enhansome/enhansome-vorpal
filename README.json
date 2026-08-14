@@ -14,7 +14,7 @@
             "last_commit": "2020-01-14T08:48:46Z",
             "owner": "dthree",
             "repo": "cash",
-            "stars": 7737
+            "stars": 7736
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2021-08-27T13:57:44Z",
             "owner": "dthree",
             "repo": "vantage",
-            "stars": 3418
+            "stars": 3417
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:42:00.302Z",
+    "last_updated": "2026-08-14T15:36:31.569Z",
     "original_repository": "vorpaljs/awesome-vorpal",
     "original_repository_sha": "0dfb5d7ae586b9ee6a0c58d9d987ecc31546218f",
     "enhanced_repository": "enhansome/enhansome-vorpal",
