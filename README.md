@@ -4,7 +4,7 @@ A curated list of delightful [Vorpal](https://github.com/dthree/vorpal) ⭐ 5,62
 
 [Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) ⭐ 5,625 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,670 | 🐛 102 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,712 | 🐛 102 | 📅 2026-08-18 list thing.
 
 ## Table of Contents
 
