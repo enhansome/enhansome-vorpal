@@ -312,6 +312,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "use",
+              "description": "Import Vorpal extensions live: while your app is running.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41276605,
+                "language": "JavaScript",
+                "last_commit": "2015-08-24T18:17:15Z",
+                "owner": "vorpaljs",
+                "repo": "vorpal-use",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Realtime"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hacker-news",
+              "description": "Pulls the top trending items from Hacker News.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38151297,
+                "language": "JavaScript",
+                "last_commit": "2015-08-24T18:12:43Z",
+                "owner": "vorpaljs",
+                "repo": "vorpal-hacker-news",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fun"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "rc",
               "description": "Simple .rc file support.",
               "children": [],
@@ -365,7 +409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:02:26.810Z",
+    "last_updated": "2026-08-24T14:35:06.227Z",
     "original_repository": "vorpaljs/awesome-vorpal",
     "original_repository_id": 39878070,
     "original_repository_sha": "0dfb5d7ae586b9ee6a0c58d9d987ecc31546218f",
