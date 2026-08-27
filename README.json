@@ -409,9 +409,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:05:51.495Z",
-    "original_repository": "vorpaljs/awesome-vorpal",
-    "original_repository_id": 39878070,
+    "last_updated": "2026-08-27T12:09:17.109Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 39878070,
+      "language": null,
+      "last_commit": "2020-06-24T10:43:19Z",
+      "owner": "vorpaljs",
+      "repo": "awesome-vorpal",
+      "stars": 146
+    },
     "original_repository_sha": "0dfb5d7ae586b9ee6a0c58d9d987ecc31546218f",
     "enhanced_repository": "enhansome/enhansome-vorpal",
     "enhanced_repository_description": null,
