@@ -16,7 +16,8 @@
             "owner": "dthree",
             "repo": "cash",
             "stars": 7736
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dthree",
             "repo": "vantage",
             "stars": 3417
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dthree",
             "repo": "wat",
             "stars": 509
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2020-03-27T15:43:49Z",
             "owner": "mischah",
             "repo": "itunes-remote",
-            "stars": 434
-          }
+            "stars": 435
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Kristories",
             "repo": "phunt",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "andrerpena",
             "repo": "quotr",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "eliah-w",
             "repo": "birdknife",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Glavin001",
             "repo": "tv-remote-cli",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "johnthepink",
             "repo": "meteor-launch",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "fastack",
             "repo": "cli",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "ristomatti",
             "repo": "lifxsh",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "AljoschaMeyer",
             "repo": "metronome-cli",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:43:10.349Z"
         }
       ],
       "title": "Projects"
@@ -204,7 +216,8 @@
                 "owner": "vorpaljs",
                 "repo": "vorpal-less",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "vorpaljs",
                 "repo": "vorpal-grep",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             }
           ],
           "description": null,
@@ -241,7 +255,8 @@
                 "owner": "vorpaljs",
                 "repo": "vorpal-repl",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "vorpaljs",
                 "repo": "vorpal-tour",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "AljoschaMeyer",
                 "repo": "vorpal-log",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "AljoschaMeyer",
                 "repo": "vorpal-setorprint",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "vantagejs",
                 "repo": "vantage-watch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             }
           ],
           "description": null,
@@ -323,7 +342,8 @@
                 "owner": "vorpaljs",
                 "repo": "vorpal-use",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             }
           ],
           "description": null,
@@ -345,7 +365,8 @@
                 "owner": "vorpaljs",
                 "repo": "vorpal-hacker-news",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             }
           ],
           "description": null,
@@ -367,7 +388,8 @@
                 "owner": "subk",
                 "repo": "vorpal-rc",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "subk",
                 "repo": "vorpal-comment",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "ialpert",
                 "repo": "vorpal-as-default",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:10.349Z"
             }
           ],
           "description": null,
@@ -409,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:03:09.865Z",
+    "last_updated": "2026-08-28T23:43:10.349Z",
     "original_repository_info": {
       "archived": false,
       "id": 39878070,
