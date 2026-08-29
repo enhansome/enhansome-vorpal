@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform Linux commands in ES6",
+            "homepage": null,
             "id": 52287768,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-14T08:48:46Z",
+            "open_issues": 39,
             "owner": "dthree",
             "repo": "cash",
-            "stars": 7736
+            "stars": 7736,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed, realtime CLI for live Node apps.",
+            "homepage": null,
             "id": 36537989,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-27T13:57:44Z",
+            "open_issues": 15,
             "owner": "dthree",
             "repo": "vantage",
-            "stars": 3417
+            "stars": 3417,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant, central, community-built docs",
+            "homepage": null,
             "id": 40583847,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-18T06:13:02Z",
+            "open_issues": 18,
             "owner": "dthree",
             "repo": "wat",
-            "stars": 509
+            "stars": 509,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":notes: Control iTunes via CLI ",
+            "homepage": null,
             "id": 45143398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-03-27T15:43:49Z",
+            "open_issues": 10,
             "owner": "mischah",
             "repo": "itunes-remote",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -74,12 +94,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Product Hunt Command Line Interface",
+            "homepage": "https://www.producthunt.com/posts/phunt",
             "id": 49832671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-15T16:45:40Z",
+            "open_issues": 0,
             "owner": "Kristories",
             "repo": "phunt",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "command-line",
+              "javascript",
+              "producthunt"
+            ]
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js CLI for displaying stock exchange quotes",
+            "homepage": null,
             "id": 45306718,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-23T17:31:13Z",
+            "open_issues": 3,
             "owner": "andrerpena",
             "repo": "quotr",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -106,12 +140,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "birdknife is a Twitter CLI based on Vorpal inspired by TTYtter.",
+            "homepage": null,
             "id": 53044657,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-28T10:10:07Z",
+            "open_issues": 17,
             "owner": "eliah-w",
             "repo": "birdknife",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "babel",
+              "cli",
+              "es6",
+              "node",
+              "ttytter",
+              "tweets",
+              "twitter",
+              "twitter-cli",
+              "vorpal"
+            ]
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -122,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for remotely controlling your Smart TV",
+            "homepage": "https://www.npmjs.com/package/tv-remote-cli",
             "id": 54693497,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-01T23:40:44Z",
+            "open_issues": 0,
             "owner": "Glavin001",
             "repo": "tv-remote-cli",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -138,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more later.",
+            "homepage": "https://www.johnpinkerton.me/meteor-launch/",
             "id": 43913112,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-06T17:31:00Z",
+            "open_issues": 38,
             "owner": "johnthepink",
             "repo": "meteor-launch",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -154,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "zero-configuration development tool",
+            "homepage": "http://fastack.io/",
             "id": 36967015,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-03T08:08:30Z",
+            "open_issues": 0,
             "owner": "fastack",
             "repo": "cli",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -170,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js based command line interface for controlling LIFX lamps that communicates using the LIFX LAN protocol.",
+            "homepage": null,
             "id": 46665291,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-24T16:38:02Z",
+            "open_issues": 1,
             "owner": "ristomatti",
             "repo": "lifxsh",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         },
@@ -186,12 +255,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Play at given bpm or tap for tempo.",
+            "homepage": null,
             "id": 44047441,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2015-10-15T21:41:35Z",
+            "open_issues": 2,
             "owner": "AljoschaMeyer",
             "repo": "metronome-cli",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
         }
@@ -210,12 +284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ES2015 implementation of the \"less\" command.",
+                "homepage": null,
                 "id": 43196945,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-02-04T19:14:10Z",
+                "open_issues": 2,
                 "owner": "vorpaljs",
                 "repo": "vorpal-less",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -226,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ES2015 implementation of the grep command.",
+                "homepage": null,
                 "id": 44462914,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-04-11T22:46:00Z",
+                "open_issues": 0,
                 "owner": "vorpaljs",
                 "repo": "vorpal-grep",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             }
@@ -249,12 +333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple REPL extension for vorpal.js",
+                "homepage": null,
                 "id": 38140337,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-03T14:41:42Z",
+                "open_issues": 3,
                 "owner": "vorpaljs",
                 "repo": "vorpal-repl",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -265,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tour users through your Vorpal app",
+                "homepage": null,
                 "id": 43857487,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-10-10T23:57:27Z",
+                "open_issues": 0,
                 "owner": "vorpaljs",
                 "repo": "vorpal-tour",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -281,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple logging utility for vorpal.",
+                "homepage": null,
                 "id": 44006120,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2016-01-08T15:16:15Z",
+                "open_issues": 0,
                 "owner": "AljoschaMeyer",
                 "repo": "vorpal-log",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -297,12 +396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly create vorpal commands which set a value, or print it if no argument was given.",
+                "homepage": null,
                 "id": 44170627,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2015-11-02T18:32:25Z",
+                "open_issues": 0,
                 "owner": "AljoschaMeyer",
                 "repo": "vorpal-setorprint",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -313,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-reloads changed Vantage.js extensions in realtime.",
+                "homepage": null,
                 "id": 40106607,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-08-03T05:46:52Z",
+                "open_issues": 0,
                 "owner": "vantagejs",
                 "repo": "vantage-watch",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             }
@@ -336,12 +445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Establishes live importing of vorpal extensions",
+                "homepage": null,
                 "id": 41276605,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-08-24T18:17:15Z",
+                "open_issues": 0,
                 "owner": "vorpaljs",
                 "repo": "vorpal-use",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             }
@@ -359,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo extension for vantage.js",
+                "homepage": null,
                 "id": 38151297,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-08-24T18:12:43Z",
+                "open_issues": 0,
                 "owner": "vorpaljs",
                 "repo": "vorpal-hacker-news",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             }
@@ -382,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".rc file support for Vorpal.js",
+                "homepage": null,
                 "id": 55765975,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-04-21T15:32:06Z",
+                "open_issues": 0,
                 "owner": "subk",
                 "repo": "vorpal-rc",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -398,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bash-like comment for Vorpal",
+                "homepage": null,
                 "id": 56836242,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-04-22T08:11:21Z",
+                "open_issues": 1,
                 "owner": "subk",
                 "repo": "vorpal-comment",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             },
@@ -414,12 +543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for Vorpal that run defined command if no commands where specified previously",
+                "homepage": null,
                 "id": 56739677,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-21T22:04:48Z",
+                "open_issues": 2,
                 "owner": "ialpert",
                 "repo": "vorpal-as-default",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.349Z"
             }
@@ -433,15 +567,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:10.349Z",
+    "last_updated": "2026-08-29T04:53:47.269Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of delightful Vorpal extensions.",
+      "homepage": null,
       "id": 39878070,
       "language": null,
+      "license": null,
       "last_commit": "2020-06-24T10:43:19Z",
+      "open_issues": 6,
       "owner": "vorpaljs",
       "repo": "awesome-vorpal",
-      "stars": 146
+      "stars": 146,
+      "topics": []
     },
     "original_repository_sha": "0dfb5d7ae586b9ee6a0c58d9d987ecc31546218f",
     "enhanced_repository": "enhansome/enhansome-vorpal",
