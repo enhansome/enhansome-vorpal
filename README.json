@@ -125,7 +125,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2019-05-23T17:31:13Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "andrerpena",
             "repo": "quotr",
             "stars": 65,
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:25:06.427Z",
+    "last_updated": "2026-09-01T17:59:27.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Vorpal extensions.",
