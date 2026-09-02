@@ -4,7 +4,7 @@ A curated list of delightful [Vorpal](https://github.com/dthree/vorpal) ⭐ 5,62
 
 [Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) ⭐ 5,627 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,983 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,329 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,983 |
 * [wat](https://github.com/dthree/wat) ⭐ 509 | 🐛 18 | 🌐 JavaScript | 📅 2016-09-18 - Community-built docs for every language, platform and library.
 * [iTunes-remote](https://github.com/mischah/itunes-remote/) ⭐ 435 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-27 - Control iTunes on the CLI.
 * [phunt](https://github.com/Kristories/phunt) ⚠️ Archived - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
-* [quotr](https://github.com/andrerpena/quotr) ⭐ 65 | 🐛 2 | 🌐 JavaScript | 📅 2019-05-23 - View stock exchange quotes.
+* [quotr](https://github.com/andrerpena/quotr) ⭐ 65 | 🐛 3 | 🌐 JavaScript | 📅 2019-05-23 - View stock exchange quotes.
 * [birdknife](https://github.com/vanita5/birdknife) ⚠️ Archived - A full featured [Twitter](https://twitter.com/) CLI.
 * [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-01 - CLI for remotely controlling your Smart TV.
 * [launch](https://github.com/NewSpring/meteor-launch) ⭐ 26 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-06 - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
@@ -94,4 +94,4 @@ To the extent possible under law, [David Caccavella](https://github.com/dthree) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
