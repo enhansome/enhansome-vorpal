@@ -4,7 +4,7 @@ A curated list of delightful [Vorpal](https://github.com/dthree/vorpal) ⭐ 5,62
 
 [Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) ⭐ 5,626 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,931 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,206 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,931 |
 *Awesome projects and applications built using Vorpal.*
 
 * [Cash](https://github.com/dthree/cash) ⭐ 7,736 | 🐛 39 | 🌐 JavaScript | 📅 2020-01-14 - Cross-platform Linux commands without the suck.
-* [Vantage](https://github.com/dthree/vantage) ⭐ 3,416 | 🐛 15 | 🌐 JavaScript | 📅 2021-08-27 - `CLI` + `SSH` + `REPL` for your live Node app.
+* [Vantage](https://github.com/dthree/vantage) ⭐ 3,415 | 🐛 15 | 🌐 JavaScript | 📅 2021-08-27 - `CLI` + `SSH` + `REPL` for your live Node app.
 * [wat](https://github.com/dthree/wat) ⭐ 509 | 🐛 18 | 🌐 JavaScript | 📅 2016-09-18 - Community-built docs for every language, platform and library.
 * [iTunes-remote](https://github.com/mischah/itunes-remote/) ⭐ 435 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-27 - Control iTunes on the CLI.
 * [phunt](https://github.com/Kristories/phunt) ⚠️ Archived - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
@@ -94,4 +94,4 @@ To the extent possible under law, [David Caccavella](https://github.com/dthree) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

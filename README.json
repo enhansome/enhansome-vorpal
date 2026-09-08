@@ -40,7 +40,7 @@
             "open_issues": 15,
             "owner": "dthree",
             "repo": "vantage",
-            "stars": 3416,
+            "stars": 3415,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "phunt",
-            "stars": 108,
+            "stars": 107,
             "topics": [
               "command-line",
               "javascript",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:53:18.007Z",
+    "last_updated": "2026-09-08T18:08:01.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Vorpal extensions.",
