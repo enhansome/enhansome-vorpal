@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "dthree",
             "repo": "cash",
-            "stars": 7727,
+            "stars": 7726,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:15:01.080Z",
+    "last_updated": "2026-11-06T20:37:32.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Vorpal extensions.",
