@@ -1,10 +1,10 @@
 # Awesome Vorpal with stars
 
-A curated list of delightful [Vorpal](https://github.com/dthree/vorpal) ⭐ 5,618 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19-based projects and extensions.
+A curated list of delightful [Vorpal](https://github.com/dthree/vorpal) ⭐ 5,619 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19-based projects and extensions.
 
-[Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) ⭐ 5,618 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
+[Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) ⭐ 5,619 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,863 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,408 | 🐛 104 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,863 |
 
 * [Chat](https://gitter.im/dthree/vorpal)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
-* [Wiki](https://github.com/dthree/vorpal/wiki) ⭐ 5,618 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
+* [Wiki](https://github.com/dthree/vorpal/wiki) ⭐ 5,619 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19
 
 ## Tutorials
 
@@ -94,4 +94,4 @@ To the extent possible under law, [David Caccavella](https://github.com/dthree) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
