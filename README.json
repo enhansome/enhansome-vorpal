@@ -82,7 +82,7 @@
             "open_issues": 10,
             "owner": "mischah",
             "repo": "itunes-remote",
-            "stars": 433,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:58:56.190Z",
+    "last_updated": "2026-11-16T23:32:04.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Vorpal extensions.",
