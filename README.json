@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:41:09.743Z",
+    "last_updated": "2026-11-18T22:22:41.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Vorpal extensions.",
@@ -576,7 +576,7 @@
       "language": null,
       "license": null,
       "last_commit": "2020-06-24T10:43:19Z",
-      "open_issues": 6,
+      "open_issues": 5,
       "owner": "vorpaljs",
       "repo": "awesome-vorpal",
       "stars": 146,
