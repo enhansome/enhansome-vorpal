@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "dthree",
             "repo": "cash",
-            "stars": 7724,
+            "stars": 7723,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
@@ -40,7 +40,7 @@
             "open_issues": 15,
             "owner": "dthree",
             "repo": "vantage",
-            "stars": 3411,
+            "stars": 3409,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
@@ -82,7 +82,7 @@
             "open_issues": 10,
             "owner": "mischah",
             "repo": "itunes-remote",
-            "stars": 434,
+            "stars": 433,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.349Z"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:22:41.716Z",
+    "last_updated": "2026-11-19T22:28:39.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Vorpal extensions.",
